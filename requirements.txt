@@ -1,0 +1,7 @@
+numpy
+matplotlib
+astropy
+pywwt
+notebook
+h5py
+ipysheet
