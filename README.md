@@ -6,3 +6,5 @@ This repository was made to translate Astronomy Laboratory experiments, made by 
 Here is the link to the HR-Diagram Laboratory:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pratere/AstronomyLabs/blob/master/HR_Diagrams/HR_Diagram.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pratere/AstronomyLabs/master)
