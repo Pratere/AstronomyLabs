@@ -1,6 +1,7 @@
+astropy
 numpy
 matplotlib
-astropy
+pandas
 pywwt
 notebook
 h5py
